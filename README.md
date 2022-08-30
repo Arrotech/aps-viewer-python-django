@@ -15,6 +15,9 @@ Simple forge viewer with python-django.
         FORGE_CLIENT_SECRET='Your-Client-Secret'
         FORGE_BUCKET='Optional-Bucket-Key'
         FORGE_REGION='US' i.e US
+        RUN_SERVER_PORT=3009
+        DEBUG=False
+
 6. Then run the application as follows `python manage.py runserver`.
 
 # Heroku Deployment
