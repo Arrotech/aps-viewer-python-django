@@ -22,7 +22,7 @@ Simple forge viewer with python-django.
 
 # Heroku Deployment
 
-You can test the application on [Heroku]().
+You can test the application on [Heroku](https://forge-viewer-python-django.herokuapp.com).
 
 # Contributors
 
