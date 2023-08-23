@@ -1,6 +1,6 @@
-# Forge Viewer with Python-Django
+# APS Viewer with Python-Django
 
-Simple forge viewer with python-django.
+Simple APS viewer with python-django.
 
 ## How to run the application
 
