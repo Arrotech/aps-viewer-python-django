@@ -30,4 +30,4 @@ You can test the application on [Heroku](https://forge-viewer-python-django.hero
 
 # Author
 
-    Harun G. | Forge Developer Advocate
+    Harun G. | Autodesk Developer Advocate
